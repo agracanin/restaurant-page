@@ -12,4 +12,4 @@ The website is fully built in JavaScript and does not utilize any HTML files. Th
 - Webpack
 
 ## Previews
-[!Preview Gif](/dist/images/preview.gif)
+![preview](/dist/images/preview.gif)
