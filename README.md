@@ -1,4 +1,4 @@
-# Resturant Page | [Live Demo](https://agracanin.github.io/restaurant-page/)
+# Restaurant Page | [Live Demo](https://agracanin.github.io/restaurant-page/)
 
 A restaurant page assignment from [The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
