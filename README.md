@@ -11,5 +11,5 @@ The website is fully built in JavaScript and does not utilize any HTML files. Th
 - HTML
 - Webpack
 
-## Previews
+## Preview
 ![preview](/dist/images/preview.gif)
